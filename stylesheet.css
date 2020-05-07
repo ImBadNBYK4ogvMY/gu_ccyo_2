@@ -168,3 +168,36 @@ footer p {
 section {
   text-align: center;
 }
+
+@media(max-width:670px) {
+  .menu-list {
+    display: flex;
+    flex-direction:column;
+    padding-bottom: 30px;
+    /* width: 60%; */
+    /* margin: 0 auto; */
+  }
+
+  .thai {
+    padding-left: 0;
+  }
+
+  footer img {
+    width: 50px;
+  }
+
+  header img {
+    width: auto;
+    height: 50px;
+    margin-left: 14px;
+  }
+
+  header nav {
+    width: 300px;
+  }
+
+  header .btn {
+    font-size: 12px;
+  }
+
+}
