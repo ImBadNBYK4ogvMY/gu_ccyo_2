@@ -70,7 +70,7 @@ nav a {
 }
 
 .main {
-  background-image: url("../img/rose-back.png");
+  background-image: url("rose-back.png");
   height: 600px;
   position: relative; 
 
