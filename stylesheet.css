@@ -226,7 +226,7 @@ section {
   }
 
   .menu-list {
-    width: 100%;
+    width: 70%;
   }
 
   .menu-list h1 {
@@ -247,7 +247,7 @@ section {
   .min-width li:nth-child(even) {
     flex-direction: row-reverse;
     text-align: end;
-    padding-right: 40px;
+/*     padding-right: 40px; */
   }
 
   footer p {
