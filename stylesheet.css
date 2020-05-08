@@ -229,8 +229,13 @@ section {
     width: 80%;
   }
 
+  .menu-list h1 {
+    font-size: 18px;
+  }
+
   .min-width {
     display: block;
+    font-size: 14px;
   }
   
   .min-width li:nth-child(odd) {
